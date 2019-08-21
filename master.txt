@@ -3,3 +3,9 @@ Now this is in update 1
 Now this is in update 2
 Now this is in update 3
 this is 1st fix
+this is 2nd fix
+
+<<<<<<< HEAD
+=======
+this is 2nd fix
+>>>>>>> v1.o_fix
